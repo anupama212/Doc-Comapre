@@ -1,4 +1,5 @@
 # Document Comparison
 ![img1](https://user-images.githubusercontent.com/54404028/189386741-f494ec82-d70e-4ab5-9dd8-cff63be54271.JPG)
-![img2](https://user-images.githubusercontent.com/54404028/189388328-44a883e4-d8b8-4091-bae4-a889db4b4bcb.JPG)
+![image](https://user-images.githubusercontent.com/54404028/189388672-e26d452a-2c07-455c-a470-22b256c279da.png)
+
 
